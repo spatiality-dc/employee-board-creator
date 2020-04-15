@@ -1,4 +1,4 @@
-# README Generator
+# Employee Board Creator
 
 ### Description
 
