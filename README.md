@@ -24,13 +24,17 @@ Trying to differentiate in my own head when to use the "super" keyword as a func
 
 ## Screenshots
 
+The jest tests for this application complete as required, as seen in the gif below.
+
+![tests completed successfully](./assets/homework_testsrun.gif).
+
 The command line application can be seen in the gif below.
 
 ![homework finished](./assets/homework_completed.gif).
 
 A screen shot of the HTML output can be seen belwo.
 
-![homework finished](./assets/homework_completed.jpg).
+![output of CLI](./assets/homework_completed.jpg).
 
 ## Results
 
