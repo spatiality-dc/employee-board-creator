@@ -18,9 +18,11 @@ I want to generate a webpage that displays my team's basic info
 so that I have quick access to emails and GitHub profiles
 ```
 
-## Challenge
+## Challenges
 
-Trying to differentiate in my own head when to use the "super" keyword as a function and when to use it as an object was tough.
+One of the biggest challenges was trying to keep a clear naming structure when creating Objects and Classes.
+
+Using Async functions to build out the HTML for a page, dependent on user input, was also a wee bit confusing. For the longest time I was only able to generate the components but return "Undefined" values.
 
 ## Screenshots
 
@@ -34,7 +36,7 @@ The command line application can be seen in the gif below.
 
 A screen shot of the HTML output can be seen belwo.
 
-![output of CLI](./assets/homework_completed.jpg).
+![output of CLI](./assets/homework_completed.png).
 
 ## Results
 
